@@ -1,4 +1,5 @@
 # syntax=docker/dockerfile:1
+# 왜
 
 FROM python:3.8-slim-buster
 
